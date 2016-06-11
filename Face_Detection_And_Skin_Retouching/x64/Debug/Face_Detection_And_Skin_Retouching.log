@@ -1,0 +1,17 @@
+﻿生成启动时间为 2016/6/11 15:52:21。
+     1>项目“G:\CVhomework\Face_Detection_And_Skin_Retouching\Face_Detection_And_Skin_Retouching\Face_Detection_And_Skin_Retouching.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         G:\vs2015\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>g:\opencv310\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\opencv310\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\opencv310\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\opencv310\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+       Link:
+         G:\vs2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"G:\CVhomework\Face_Detection_And_Skin_Retouching\x64\Debug\Face_Detection_And_Skin_Retouching.exe" /INCREMENTAL /NOLOGO opencv_world310d.lib opencv_world310.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"G:\CVhomework\Face_Detection_And_Skin_Retouching\x64\Debug\Face_Detection_And_Skin_Retouching.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\CVhomework\Face_Detection_And_Skin_Retouching\x64\Debug\Face_Detection_And_Skin_Retouching.lib" /MACHINE:X64 x64\Debug\main.obj
+         Face_Detection_And_Skin_Retouching.vcxproj -> G:\CVhomework\Face_Detection_And_Skin_Retouching\x64\Debug\Face_Detection_And_Skin_Retouching.exe
+     1>已完成生成项目“G:\CVhomework\Face_Detection_And_Skin_Retouching\Face_Detection_And_Skin_Retouching\Face_Detection_And_Skin_Retouching.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:02.45
